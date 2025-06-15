@@ -1,2 +1,2 @@
-# -CoolGamblingGames
+# CoolGamblingGames
 Unity Gambling Game
